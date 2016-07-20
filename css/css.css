@@ -290,9 +290,9 @@ span a {
 	transform: skewX(360deg);
 }
 /*.deg {
-	-webkit-transform: rotate(deg);
 }*/
 .deg {
 	transition: 2s linear;
+	display: block;
 }
 
